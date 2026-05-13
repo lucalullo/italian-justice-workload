@@ -7,6 +7,7 @@
 A multidimensional analysis of the judicial workload in Italy. This project explores the evolution of pending civil and criminal proceedings over two decades, integrating official data from the Ministry of Justice with ISTAT demographic indicators.
 
 🔗 **Original Notebook on Kaggle:** [View here](https://www.kaggle.com/code/lucalullo/italian-justice-system-workload-2003-2024)
+🔗 **Original Dataset on Kaggle:** [View here](https://www.kaggle.com/datasets/lucalullo/italy-justice-system-workload-2003-2024)
 📓 **Notebook on GitHub:** [View here](https://www.kaggle.com/datasets/lucalullo/italy-justice-system-workload-2003-2024)
 
 ## 🛠️ Technical Workflow
